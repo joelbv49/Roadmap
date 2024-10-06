@@ -244,5 +244,5 @@ st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("### Need Help?")
 st.write("Feel free to reach out if you have questions or need further assistance!")
 
-st.markdown("Created by [Joel B Varghese](https://your-profile-link)")
+st.markdown("Created by [Joel B Varghese](https://www.linkedin.com/in/joel-b-varghese-359621259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
 
